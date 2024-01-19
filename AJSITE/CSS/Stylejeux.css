@@ -1,0 +1,72 @@
+* {
+    font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Papyrus;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.jeux {
+    font-style: italic;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+#ulji {
+    list-style-image: url('IMAGES\SNice.svg.png');
+}
+
+
+a:visited {
+    color: red;
+}
+.omp{
+    margin-left: 40px;
+}
+.omp p {
+    margin-left: 40px;
+}
+
+.omp p span {
+    display: block;
+}
+
+#ulji li {
+    list-style: none; 
+    position: relative;
+}
+
+.smiley-icon {
+    display: inline-block;
+    width: 20px; 
+    height: 20px; 
+    background: url('https://uxwing.com/wp-content/themes/uxwing/download/emoji-emoticon/smiley-icon.png') center center no-repeat; /* Ajoutez le chemin correct vers votre icône smiley */
+    background-size: cover; 
+    margin-right: 5px; 
+}
+.c1 {
+    font-weight: bold;
+    color: blue;
+    font-family: Cursive;
+}
+
+.c2 {
+    font-style: italic;
+    color: green;
+}
+
+.c1 ul,
+.c1 ol {
+    
+    list-style: square; 
+}
+#ulga{
+    list-style-type: circle; 
+}
+
+
+
